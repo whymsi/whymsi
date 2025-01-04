@@ -5,3 +5,4 @@ github.com/whymsi
 dc   $  @whymsical
 srv  $  discord.gg/whym
 ```
+![](https://komarev.com/ghpvc/?username=whymsi)
