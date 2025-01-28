@@ -3,6 +3,6 @@
 ```csharp
 github.com/whymsi
 dc   $  @whymsical
-srv  $  discord.gg/whym
+srv  $  discord.gg/ykw
 ```
 ![](https://komarev.com/ghpvc/?username=whymsi)
